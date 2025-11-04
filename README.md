@@ -1,64 +1,59 @@
-# 👋 Hi, I'm Vivek Sharma
-
-> B.Tech CSE student at AKTU • Android & Web developer • Always learning
-
-[![GitHub followers](https://img.shields.io/github/followers/Vivek-Sharma00?label=Follow&style=social)](https://github.com/Vivek-Sharma00)
-
----
-
-## 🔭 About Me
-I’m a final-year B.Tech (CSE) student who loves building practical projects — especially Android apps and small web tools. I enjoy learning new languages and tools, solving problems, and turning ideas into working code. I also do early morning runs, enjoy anime, and like experimenting with food/coffee ☕.
-
-- 📍 Uttar Pradesh, India  
-- 🎓 B.Tech CSE (AKTU)  
-- 🕒 Early-morning runner, late-night coder
+<h1 align="center">Hey 👋 I'm Vivek Sharma</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=450&lines=Android+%26+Web+Developer;B.Tech+CSE+Student+%40+AKTU;Always+learning+new+things+🚀" />
+</p>
 
 ---
 
-## 🛠️ Skills
-**Languages & Tools**
-- C, C++ (basic), Kotlin, Java (Android)
-- HTML, CSS, JavaScript (basic)
-- MongoDB (basic), SQL
-- Git, GitHub
+## 💫 About Me
+I'm a final-year **B.Tech CSE** student who enjoys building practical projects — especially **Android apps** and small helpful **web tools**.  
+I love learning new tech, solving problems, and experimenting with ideas. Also, I go for **early morning runs** and watch anime 🎧.
 
-**Interests**
-- Android development (Kotlin)
-- Web projects (frontend + simple backend)
-- Competitive programming basics & DS fundamentals
+- 📌 **Based in:** Uttar Pradesh, India  
+- 🧠 **Currently Learning:** Kotlin, Advanced Android Concepts  
+- 🎯 **Goal:** Publish my own app on Play Store  
+- ☕ Fun Fact: Coffee + Music = Perfect Coding Session  
 
 ---
 
-## 🚀 Selected Projects
-> _(Add links to your repos under each project)_
+## 🛠️ Tech Stack
 
-- **Android Notes App** — A simple notes app with local storage, material UI and export/import features.  
-- **College Portal Clone (Web)** — Student dashboard mock: assignments, schedules, and resources.  
-- **MongoDB Report** — Hands-on report and demo queries for MongoDB (school submission).
-
-*(Replace the above with your actual project names and repo links.)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,mongodb,mysql,git,github,androidstudio,vscode" />
+</p>
 
 ---
 
-## 📚 Learning & Goals
-- Learning Kotlin for Android development  
-- Strengthen C++ and DS/algorithms knowledge  
-- Build and publish a personal Android app on Play Store
+## 🚀 Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Notes App (Android)** | A clean notes app with local storage & material UI | Kotlin, Room DB |
+| **College Portal Clone (Web)** | Student dashboard mock for assignments & schedule | HTML, CSS, JS |
+| **MongoDB Report (Academic Work)** | Documented queries & data ops with examples | MongoDB |
+
+> Want me to make these look premium with project banners, READMEs & screenshots? Just tell me 😄
 
 ---
 
-## 💬 Contact
-- GitHub: [Vivek-Sharma00](https://github.com/Vivek-Sharma00)  
-- Email: `vivek.sharma@example.com` _(replace with your email)_
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Sharma00&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Vivek-Sharma00&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Sharma00&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
-## ⭐ GitHub Tips
-If you want, I can:
-- Generate a shorter bio line for your GitHub profile.
-- Create badges (languages, top repos).
-- Produce a one-page résumé-style README for recruiters.
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:viveksharma08102004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Vivek-Sharma00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-> **Want it translated to Hindi, made shorter, or converted into a developer portfolio template?** Tell me which and I’ll update it.
+<p align="center"><b>✨ Code. Learn. Improve. Repeat. ✨</b></p>
