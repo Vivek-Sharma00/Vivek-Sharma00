@@ -31,7 +31,6 @@ I love learning new tech, solving problems, and experimenting with ideas. Also, 
 | **College Portal Clone (Web)** | Student dashboard mock for assignments & schedule | HTML, CSS, JS |
 | **MongoDB Report (Academic Work)** | Documented queries & data ops with examples | MongoDB |
 
-> Want me to make these look premium with project banners, READMEs & screenshots? Just tell me 😄
 
 ---
 
