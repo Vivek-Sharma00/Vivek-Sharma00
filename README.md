@@ -37,12 +37,7 @@ I love learning new tech, solving problems, and experimenting with ideas. Also, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Sharma00&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=Vivek-Sharma00&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Sharma00&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
