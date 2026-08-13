@@ -34,13 +34,6 @@ I love learning new tech, solving problems, and experimenting with ideas. Also, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivek-Sharma00&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
